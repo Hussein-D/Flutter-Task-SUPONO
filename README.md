@@ -1,5 +1,5 @@
 # Flutter Application README
-
+## Hussein Dbouk Senior Flutter Developer
 ## Overview
 
 This Flutter application is built with a focus on adhering to the SOLID principles and follows a Test-Driven Development (TDD) approach. The architecture is structured around separating concerns into distinct layers: Domain Layer, Data Layer, and Presentation Layer. Each feature within the application follows this layered architecture, enhancing maintainability and scalability.
@@ -40,8 +40,8 @@ Test-Driven Development (TDD) is followed rigorously throughout the development 
 
 To run the application locally, follow these steps:
 
-1. Clone the repository: `git clone <repository_url>`
-2. Navigate to the project directory: `cd <project_directory>`
+1. Clone the repository: `git clone https://github.com/Hussein-D/Flutter-Task-SUPONO.git`
+2. Navigate to the project directory: `cd flutter_task_1`
 3. Install dependencies: `flutter pub get`
 4. Run the application: `flutter run`
 
@@ -52,7 +52,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize and expand upon this README as needed for your specific application!
